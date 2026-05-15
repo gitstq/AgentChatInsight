@@ -1,0 +1,15 @@
+# AgentChatInsight - AI对话历史智能分析引擎
+# 核心功能零依赖，以下为可选依赖
+
+# 可选：美观的终端输出
+rich>=13.0.0
+
+# 可选：TUI界面
+textual>=0.40.0
+
+# 开发依赖
+pytest>=7.0.0
+pytest-cov>=4.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
